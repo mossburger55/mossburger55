@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mossburger55
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Python and C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
